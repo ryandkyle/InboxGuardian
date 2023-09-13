@@ -1,2 +1,2 @@
-# spam-away
+# InboxGuardian
 A better spam elimination app
